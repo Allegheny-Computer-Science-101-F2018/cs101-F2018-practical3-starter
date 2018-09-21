@@ -20,6 +20,8 @@ PROBLEMS?
 
 -->
 
+<!-- Ensure that the Travis build starts correctly -->
+
 # cs101-F2018-practical3-starter
 
 Designed for use with [GitHub Classroom](https://classroom.github.com/), this
